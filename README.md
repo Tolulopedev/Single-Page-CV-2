@@ -1,2 +1,2 @@
 Project URL:
-(https://github.com/Tolulopedev/Single-Page-CV)
+https://tolulopedev.github.io/Single-Page-CV-2/
