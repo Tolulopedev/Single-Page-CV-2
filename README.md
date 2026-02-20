@@ -1,1 +1,2 @@
-https://roadmap.sh/projects/single-page-cv
+Project URL:
+(https://github.com/Tolulopedev/Single-Page-CV)
